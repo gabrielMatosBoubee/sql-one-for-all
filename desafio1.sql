@@ -171,12 +171,12 @@ INSERT INTO
         duracao_segundos,
         album_id
     )
-VALUES ("Samba em Paris", 1, 267, 6), ("VIRGO'S GROOVE", 2, 369, 1), ("Feeling Good", 3, 100, 8), ("Under Pressure", 4, 152, 3), (
+VALUES ("Samba em Paris", 1, 267, 6), ("VIRGO’S GROOVE", 2, 369, 1), ("Feeling Good", 3, 100, 8), ("Under Pressure", 4, 152, 3), (
         "O Medo de Amar é o Medo de Ser Livre",
         5,
         207,
         5
-    ), ("Don't Stop Me Now", 6, 203, 2), ("BREAK MY SOUL", 7, 279, 1), ("The Bard's Song", 8, 244, 7), ("ALIEN SUPERSTAR", 9, 116, 1), ("Como Nossos Pais", 10, 105, 4);
+    ), ("Don’t Stop Me Now", 6, 203, 2), ("BREAK MY SOUL", 7, 279, 1), ("The Bard’s Song", 8, 244, 7), ("ALIEN SUPERSTAR", 9, 116, 1), ("Como Nossos Pais", 10, 105, 4);
 
 INSERT INTO
     SpotifyClone.historico_reproducao (
