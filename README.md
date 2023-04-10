@@ -30,5 +30,7 @@ Cada desafio está em um arquivo sql na pasta raiz.
 
 10 - Exibe o nome e a quantidade de vezes que cada canção foi tocada por pessoas usuárias do plano gratuito ou pessoal
 
+11 - Exibe nomes de musicas em sua forma normal e com string trocada
+
 ## Agradecimentos
 Agradecemos à Trybe por nos proporcionar essa oportunidade de aprendizado e desenvolvimento de nossas habilidades como desenvolvedores web.
